@@ -19,6 +19,7 @@ ext {
 }
 
 dependencies {
+    // NOTE : Spring Cloud Discovery Server ( Eureka )
     implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
