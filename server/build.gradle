@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'kr.ac.pcu.cyber'
-version = '0.0.1-SNAPSHOT'
+version = '0.0.1' // 빌드 상황에 따라서 version 변경해야함
 sourceCompatibility = '11'
 
 repositories {
